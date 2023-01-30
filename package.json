@@ -1,0 +1,25 @@
+{
+    "name": "data-base-administrator",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "serverapp.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Novatoalvarado/databaseadministrator.git"
+    },
+    "author": "el felipe",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Novatoalvarado/databaseadministrator/issues"
+    },
+    "homepage": "https://github.com/Novatoalvarado/databaseadministrator#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^6.9.0",
+        "mongose": "^0.0.2-security"
+    }
+}
